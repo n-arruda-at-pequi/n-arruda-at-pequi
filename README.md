@@ -1,6 +1,6 @@
 #
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=n-arruda-at-pequi&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=n-arruda-at-pequi&count_private=true&show_icons=true&theme=radical" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-arruda-at-pequi&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22)
 
